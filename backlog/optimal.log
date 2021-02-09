@@ -1,0 +1,610 @@
+average overall rating: 0.575160801410675
+6040 3706
+166
+avg_user_hist_length: 165.5975165562914
+avg_user_init_hist_length: 8.865449388406311
+8.865449388406311
+build initial recall set
+--initial filter
+filter recall at the end of epoch
+avg_recall_length: 3696.7201986754967
+epoch: 0, cumulative recall: 0.004725179954728131, arm_cnt: [2477. 3563.    0.]
+filter recall at the end of epoch
+avg_recall_length: 3695.7201986754967
+epoch: 1, cumulative recall: 0.006619440250841946, arm_cnt: [3345. 7217. 1518.]
+filter recall at the end of epoch
+avg_recall_length: 3694.7201986754967
+epoch: 2, cumulative recall: 0.009292346236514103, arm_cnt: [ 4577. 10129.  3414.]
+filter recall at the end of epoch
+avg_recall_length: 3693.7201986754967
+epoch: 3, cumulative recall: 0.013720536637278662, arm_cnt: [ 4962. 15404.  3794.]
+filter recall at the end of epoch
+avg_recall_length: 3692.7201986754967
+epoch: 4, cumulative recall: 0.016937923471884036, arm_cnt: [ 5804. 19690.  4706.]
+filter recall at the end of epoch
+avg_recall_length: 3691.7201986754967
+epoch: 5, cumulative recall: 0.020793076335834264, arm_cnt: [ 6075. 25437.  4728.]
+filter recall at the end of epoch
+avg_recall_length: 3690.7201986754967
+epoch: 6, cumulative recall: 0.02429222249086662, arm_cnt: [ 6311. 31199.  4770.]
+filter recall at the end of epoch
+avg_recall_length: 3689.7201986754967
+epoch: 7, cumulative recall: 0.028029341044908247, arm_cnt: [ 6592. 36945.  4783.]
+filter recall at the end of epoch
+avg_recall_length: 3688.7201986754967
+epoch: 8, cumulative recall: 0.031831188091480396, arm_cnt: [ 7070. 42461.  4829.]
+filter recall at the end of epoch
+avg_recall_length: 3687.7201986754967
+epoch: 9, cumulative recall: 0.035351275817625566, arm_cnt: [ 7597. 47903.  4900.]
+filter recall at the end of epoch
+avg_recall_length: 3686.7201986754967
+epoch: 10, cumulative recall: 0.03805654604956299, arm_cnt: [ 8246. 53266.  4928.]
+filter recall at the end of epoch
+avg_recall_length: 3685.7201986754967
+epoch: 11, cumulative recall: 0.040221142990951336, arm_cnt: [ 8911. 58587.  4982.]
+filter recall at the end of epoch
+avg_recall_length: 3684.7201986754967
+epoch: 12, cumulative recall: 0.04234195301092198, arm_cnt: [ 9713. 63538.  5269.]
+filter recall at the end of epoch
+avg_recall_length: 3683.7201986754967
+epoch: 13, cumulative recall: 0.04454843309453596, arm_cnt: [10582. 68253.  5725.]
+filter recall at the end of epoch
+avg_recall_length: 3682.7201986754967
+epoch: 14, cumulative recall: 0.04647125007853089, arm_cnt: [11733. 72213.  6654.]
+filter recall at the end of epoch
+avg_recall_length: 3681.7201986754967
+epoch: 15, cumulative recall: 0.048725324641946725, arm_cnt: [12980. 75484.  8176.]
+filter recall at the end of epoch
+avg_recall_length: 3680.7201986754967
+epoch: 16, cumulative recall: 0.05034924829278601, arm_cnt: [14659. 77429. 10592.]
+filter recall at the end of epoch
+avg_recall_length: 3679.7201986754967
+epoch: 17, cumulative recall: 0.05180563937472276, arm_cnt: [15670. 81009. 12041.]
+filter recall at the end of epoch
+avg_recall_length: 3678.7201986754967
+epoch: 18, cumulative recall: 0.053916930498733036, arm_cnt: [17875. 83625. 13260.]
+filter recall at the end of epoch
+avg_recall_length: 3677.7201986754967
+epoch: 19, cumulative recall: 0.056199561750029985, arm_cnt: [19930. 86079. 14791.]
+filter recall at the end of epoch
+avg_recall_length: 3676.7201986754967
+epoch: 20, cumulative recall: 0.058564055506586124, arm_cnt: [22916. 87051. 16873.]
+filter recall at the end of epoch
+avg_recall_length: 3675.7201986754967
+epoch: 21, cumulative recall: 0.060844782978690996, arm_cnt: [25320. 88051. 19509.]
+filter recall at the end of epoch
+avg_recall_length: 3674.7201986754967
+epoch: 22, cumulative recall: 0.06362049304073517, arm_cnt: [27999. 89810. 21111.]
+filter recall at the end of epoch
+avg_recall_length: 3673.7201986754967
+epoch: 23, cumulative recall: 0.06659229235956297, arm_cnt: [31836. 90827. 22297.]
+filter recall at the end of epoch
+avg_recall_length: 3672.7201986754967
+epoch: 24, cumulative recall: 0.06946509516040292, arm_cnt: [35764. 91612. 23624.]
+filter recall at the end of epoch
+avg_recall_length: 3671.7201986754967
+epoch: 25, cumulative recall: 0.07187908717595298, arm_cnt: [38456. 92866. 25718.]
+filter recall at the end of epoch
+avg_recall_length: 3670.7201986754967
+epoch: 26, cumulative recall: 0.07438255681353054, arm_cnt: [40587. 94896. 27597.]
+filter recall at the end of epoch
+avg_recall_length: 3669.7201986754967
+epoch: 27, cumulative recall: 0.07641769676985785, arm_cnt: [42790. 96104. 30226.]
+filter recall at the end of epoch
+avg_recall_length: 3668.7201986754967
+epoch: 28, cumulative recall: 0.07905443095088059, arm_cnt: [43732. 99730. 31698.]
+filter recall at the end of epoch
+avg_recall_length: 3667.7201986754967
+epoch: 29, cumulative recall: 0.08111051247832071, arm_cnt: [ 45854. 101500.  33846.]
+filter recall at the end of epoch
+avg_recall_length: 3666.7201986754967
+epoch: 30, cumulative recall: 0.08378532224318494, arm_cnt: [ 48898. 102731.  35611.]
+filter recall at the end of epoch
+avg_recall_length: 3665.7201986754967
+epoch: 31, cumulative recall: 0.08638017328198207, arm_cnt: [ 52289. 103646.  37345.]
+filter recall at the end of epoch
+avg_recall_length: 3664.7201986754967
+epoch: 32, cumulative recall: 0.08910828886422437, arm_cnt: [ 56091. 104243.  38986.]
+filter recall at the end of epoch
+avg_recall_length: 3663.7201986754967
+epoch: 33, cumulative recall: 0.09136807476521643, arm_cnt: [ 59335. 104778.  41247.]
+filter recall at the end of epoch
+avg_recall_length: 3662.7201986754967
+epoch: 34, cumulative recall: 0.09392485022017207, arm_cnt: [ 63010. 105267.  43123.]
+filter recall at the end of epoch
+avg_recall_length: 3661.7201986754967
+epoch: 35, cumulative recall: 0.09600758465630123, arm_cnt: [ 65981. 105850.  45609.]
+filter recall at the end of epoch
+avg_recall_length: 3660.7201986754967
+epoch: 36, cumulative recall: 0.09832258015386343, arm_cnt: [ 69475. 106369.  47636.]
+filter recall at the end of epoch
+avg_recall_length: 3659.7201986754967
+epoch: 37, cumulative recall: 0.10044719773221823, arm_cnt: [ 72473. 106805.  50242.]
+filter recall at the end of epoch
+avg_recall_length: 3658.7201986754967
+epoch: 38, cumulative recall: 0.1027869423592774, arm_cnt: [ 75812. 107484.  52264.]
+filter recall at the end of epoch
+avg_recall_length: 3657.7201986754967
+epoch: 39, cumulative recall: 0.10477258405661077, arm_cnt: [ 78643. 108100.  54857.]
+filter recall at the end of epoch
+avg_recall_length: 3656.7201986754967
+epoch: 40, cumulative recall: 0.1069904868153772, arm_cnt: [ 81871. 108747.  57022.]
+filter recall at the end of epoch
+avg_recall_length: 3655.7201986754967
+epoch: 41, cumulative recall: 0.1090998741601954, arm_cnt: [ 84462. 109886.  59332.]
+filter recall at the end of epoch
+avg_recall_length: 3654.7201986754967
+epoch: 42, cumulative recall: 0.11116928214198005, arm_cnt: [ 87389. 110547.  61784.]
+filter recall at the end of epoch
+avg_recall_length: 3653.7201986754967
+epoch: 43, cumulative recall: 0.11327676570760617, arm_cnt: [ 90461. 111106.  64193.]
+filter recall at the end of epoch
+avg_recall_length: 3652.7201986754967
+epoch: 44, cumulative recall: 0.11548895712879638, arm_cnt: [ 94030. 111474.  66296.]
+filter recall at the end of epoch
+avg_recall_length: 3651.7201986754967
+epoch: 45, cumulative recall: 0.11751077063077917, arm_cnt: [ 96922. 111935.  68983.]
+filter recall at the end of epoch
+avg_recall_length: 3650.7201986754967
+epoch: 46, cumulative recall: 0.11975532629823463, arm_cnt: [100533. 112288.  71059.]
+filter recall at the end of epoch
+avg_recall_length: 3649.7201986754967
+epoch: 47, cumulative recall: 0.1220798406917572, arm_cnt: [104303. 112611.  73006.]
+filter recall at the end of epoch
+avg_recall_length: 3648.7201986754967
+epoch: 48, cumulative recall: 0.12429203211294741, arm_cnt: [107153. 114195.  74612.]
+filter recall at the end of epoch
+avg_recall_length: 3647.7201986754967
+epoch: 49, cumulative recall: 0.12638428544503694, arm_cnt: [110264. 115473.  76263.]
+filter recall at the end of epoch
+avg_recall_length: 3646.7201986754967
+epoch: 50, cumulative recall: 0.12818145300235498, arm_cnt: [112749. 116728.  78563.]
+filter recall at the end of epoch
+avg_recall_length: 3645.7201986754967
+epoch: 51, cumulative recall: 0.12989295049602967, arm_cnt: [115225. 117714.  81141.]
+filter recall at the end of epoch
+avg_recall_length: 3644.7201986754967
+epoch: 52, cumulative recall: 0.13153210438040555, arm_cnt: [117498. 118753.  83869.]
+filter recall at the end of epoch
+avg_recall_length: 3643.7201986754967
+epoch: 53, cumulative recall: 0.13312747134336372, arm_cnt: [119880. 119532.  86748.]
+filter recall at the end of epoch
+avg_recall_length: 3642.7201986754967
+epoch: 54, cumulative recall: 0.13504457698978242, arm_cnt: [121973. 121716.  88511.]
+filter recall at the end of epoch
+avg_recall_length: 3641.7201986754967
+epoch: 55, cumulative recall: 0.1368322256511401, arm_cnt: [124350. 123105.  90785.]
+filter recall at the end of epoch
+avg_recall_length: 3640.7201986754967
+epoch: 56, cumulative recall: 0.13858370250784832, arm_cnt: [126879. 124175.  93226.]
+filter recall at the end of epoch
+avg_recall_length: 3639.7201986754967
+epoch: 57, cumulative recall: 0.14027235465121812, arm_cnt: [129352. 125440.  95528.]
+filter recall at the end of epoch
+avg_recall_length: 3638.7201986754967
+epoch: 58, cumulative recall: 0.1419057971980178, arm_cnt: [131925. 126285.  98150.]
+filter recall at the end of epoch
+avg_recall_length: 3637.7201986754967
+epoch: 59, cumulative recall: 0.1434668961355186, arm_cnt: [134561. 126983. 100856.]
+filter recall at the end of epoch
+avg_recall_length: 3636.7201986754967
+epoch: 60, cumulative recall: 0.14528690904314154, arm_cnt: [137989. 127539. 102912.]
+filter recall at the end of epoch
+avg_recall_length: 3635.7201986754967
+epoch: 61, cumulative recall: 0.14694510071943814, arm_cnt: [141372. 128003. 105105.]
+filter recall at the end of epoch
+avg_recall_length: 3634.7201986754967
+epoch: 62, cumulative recall: 0.1488812441577776, arm_cnt: [145144. 128394. 106982.]
+filter recall at the end of epoch
+avg_recall_length: 3633.7201986754967
+epoch: 63, cumulative recall: 0.15094494080198603, arm_cnt: [149195. 128686. 108679.]
+filter recall at the end of epoch
+avg_recall_length: 3632.7201986754967
+epoch: 64, cumulative recall: 0.15272687812576746, arm_cnt: [152866. 128937. 110797.]
+filter recall at the end of epoch
+avg_recall_length: 3631.7201986754967
+epoch: 65, cumulative recall: 0.15487434105442716, arm_cnt: [157088. 129129. 112423.]
+filter recall at the end of epoch
+avg_recall_length: 3630.7201986754967
+epoch: 66, cumulative recall: 0.15675527489619645, arm_cnt: [160782. 129313. 114585.]
+filter recall at the end of epoch
+avg_recall_length: 3629.7201986754967
+epoch: 67, cumulative recall: 0.15847629128583152, arm_cnt: [164262. 129659. 116799.]
+filter recall at the end of epoch
+avg_recall_length: 3628.7201986754967
+epoch: 68, cumulative recall: 0.16010211871586286, arm_cnt: [167667. 129881. 119212.]
+filter recall at the end of epoch
+avg_recall_length: 3627.7201986754967
+epoch: 69, cumulative recall: 0.16178696330084852, arm_cnt: [171293. 130095. 121412.]
+filter recall at the end of epoch
+avg_recall_length: 3626.7201986754967
+epoch: 70, cumulative recall: 0.1632338354868249, arm_cnt: [174200. 130303. 124337.]
+filter recall at the end of epoch
+avg_recall_length: 3625.7201986754967
+epoch: 71, cumulative recall: 0.1649224876301947, arm_cnt: [177708. 130502. 126670.]
+filter recall at the end of epoch
+avg_recall_length: 3624.7201986754967
+epoch: 72, cumulative recall: 0.16655402639780229, arm_cnt: [181140. 130713. 129067.]
+filter recall at the end of epoch
+avg_recall_length: 3623.7201986754967
+epoch: 73, cumulative recall: 0.16817985382783363, arm_cnt: [184665. 130882. 131413.]
+filter recall at the end of epoch
+avg_recall_length: 3622.7201986754967
+epoch: 74, cumulative recall: 0.1698418530625144, arm_cnt: [188146. 131043. 133811.]
+filter recall at the end of epoch
+avg_recall_length: 3621.7201986754967
+epoch: 75, cumulative recall: 0.1714105671167835, arm_cnt: [191451. 131253. 136336.]
+filter recall at the end of epoch
+avg_recall_length: 3620.7201986754967
+epoch: 76, cumulative recall: 0.173116353272882, arm_cnt: [195162. 131628. 138290.]
+filter recall at the end of epoch
+avg_recall_length: 3619.7201986754967
+epoch: 77, cumulative recall: 0.1746488955225017, arm_cnt: [198501. 131822. 140797.]
+filter recall at the end of epoch
+avg_recall_length: 3618.7201986754967
+epoch: 78, cumulative recall: 0.17627662673172514, arm_cnt: [202183. 131996. 142981.]
+filter recall at the end of epoch
+avg_recall_length: 3617.7201986754967
+epoch: 79, cumulative recall: 0.17772349891770153, arm_cnt: [205407. 132103. 145690.]
+filter recall at the end of epoch
+avg_recall_length: 3616.7201986754967
+epoch: 80, cumulative recall: 0.1791932164539828, arm_cnt: [208578. 132203. 148459.]
+filter recall at the end of epoch
+avg_recall_length: 3615.7201986754967
+epoch: 81, cumulative recall: 0.18075621917067572, arm_cnt: [211841. 132419. 151020.]
+filter recall at the end of epoch
+avg_recall_length: 3614.7201986754967
+epoch: 82, cumulative recall: 0.1824905620146553, arm_cnt: [215376. 132645. 153299.]
+filter recall at the end of epoch
+avg_recall_length: 3613.7201986754967
+epoch: 83, cumulative recall: 0.18424394265055563, arm_cnt: [218928. 132804. 155628.]
+filter recall at the end of epoch
+avg_recall_length: 3612.7201986754967
+epoch: 84, cumulative recall: 0.18571366018683688, arm_cnt: [222050. 132983. 158367.]
+filter recall at the end of epoch
+avg_recall_length: 3611.7201986754967
+epoch: 85, cumulative recall: 0.18720622307342305, arm_cnt: [225146. 133133. 161161.]
+filter recall at the end of epoch
+avg_recall_length: 3610.7201986754967
+epoch: 86, cumulative recall: 0.18873305398546655, arm_cnt: [228226. 133302. 163952.]
+filter recall at the end of epoch
+avg_recall_length: 3609.7201986754967
+epoch: 87, cumulative recall: 0.1907282145787603, arm_cnt: [232073. 133450. 165997.]
+filter recall at the end of epoch
+avg_recall_length: 3608.7201986754967
+epoch: 88, cumulative recall: 0.1924111553845539, arm_cnt: [235445. 133597. 168518.]
+filter recall at the end of epoch
+avg_recall_length: 3607.7201986754967
+epoch: 89, cumulative recall: 0.19404269415216147, arm_cnt: [238813. 133728. 171059.]
+filter recall at the end of epoch
+avg_recall_length: 3606.7201986754967
+epoch: 90, cumulative recall: 0.19576180676260443, arm_cnt: [242613. 133878. 173149.]
+filter recall at the end of epoch
+avg_recall_length: 3605.7201986754967
+epoch: 91, cumulative recall: 0.19746378536031878, arm_cnt: [246330. 134049. 175301.]
+filter recall at the end of epoch
+avg_recall_length: 3604.7201986754967
+epoch: 92, cumulative recall: 0.19911816947823124, arm_cnt: [249996. 134197. 177527.]
+filter recall at the end of epoch
+avg_recall_length: 3603.7201986754967
+epoch: 93, cumulative recall: 0.20055552276824726, arm_cnt: [253117. 134360. 180283.]
+filter recall at the end of epoch
+avg_recall_length: 3602.7201986754967
+epoch: 94, cumulative recall: 0.20192624378654067, arm_cnt: [256113. 134539. 183148.]
+filter recall at the end of epoch
+avg_recall_length: 3601.7201986754967
+epoch: 95, cumulative recall: 0.20336550085574875, arm_cnt: [259180. 134709. 185951.]
+filter recall at the end of epoch
+avg_recall_length: 3600.7201986754967
+epoch: 96, cumulative recall: 0.20499703962335633, arm_cnt: [262631. 134949. 188300.]
+filter recall at the end of epoch
+avg_recall_length: 3599.7201986754967
+epoch: 97, cumulative recall: 0.20666665397480538, arm_cnt: [266164. 135183. 190573.]
+filter recall at the end of epoch
+avg_recall_length: 3598.7201986754967
+epoch: 98, cumulative recall: 0.20826202093776355, arm_cnt: [269490. 135402. 193068.]
+filter recall at the end of epoch
+avg_recall_length: 3597.7201986754967
+epoch: 99, cumulative recall: 0.2098440614463772, arm_cnt: [272699. 135637. 195664.]
+filter recall at the end of epoch
+avg_recall_length: 3596.7201986754967
+epoch: 100, cumulative recall: 0.21099584785758208, arm_cnt: [275276. 135851. 198913.]
+filter recall at the end of epoch
+avg_recall_length: 3595.7201986754967
+epoch: 101, cumulative recall: 0.21268830755933604, arm_cnt: [278673. 136000. 201407.]
+filter recall at the end of epoch
+avg_recall_length: 3594.7201986754967
+epoch: 102, cumulative recall: 0.21421133091299538, arm_cnt: [281829. 136195. 204096.]
+filter recall at the end of epoch
+avg_recall_length: 3593.7201986754967
+epoch: 103, cumulative recall: 0.21560680106078575, arm_cnt: [284533. 136361. 207266.]
+filter recall at the end of epoch
+avg_recall_length: 3592.7201986754967
+epoch: 104, cumulative recall: 0.21685948776917058, arm_cnt: [287157. 136517. 210526.]
+filter recall at the end of epoch
+avg_recall_length: 3591.7201986754967
+epoch: 105, cumulative recall: 0.21810646313997917, arm_cnt: [289709. 136740. 213791.]
+filter recall at the end of epoch
+avg_recall_length: 3590.7201986754967
+epoch: 106, cumulative recall: 0.2194257821200866, arm_cnt: [292576. 136978. 216726.]
+filter recall at the end of epoch
+avg_recall_length: 3589.7201986754967
+epoch: 107, cumulative recall: 0.22064420080301406, arm_cnt: [295390. 137241. 219689.]
+filter recall at the end of epoch
+avg_recall_length: 3588.7201986754967
+epoch: 108, cumulative recall: 0.22205870874272518, arm_cnt: [298695. 137493. 222172.]
+filter recall at the end of epoch
+avg_recall_length: 3587.7201986754967
+epoch: 109, cumulative recall: 0.22345608266970762, arm_cnt: [301914. 137749. 224737.]
+filter recall at the end of epoch
+avg_recall_length: 3586.7201986754967
+epoch: 110, cumulative recall: 0.22473922984516564, arm_cnt: [304599. 137997. 227844.]
+filter recall at the end of epoch
+avg_recall_length: 3585.7201986754967
+epoch: 111, cumulative recall: 0.22617848691437373, arm_cnt: [307071. 139487. 229922.]
+filter recall at the end of epoch
+avg_recall_length: 3584.7201986754967
+epoch: 112, cumulative recall: 0.22740261693487743, arm_cnt: [309560. 140249. 232711.]
+filter recall at the end of epoch
+avg_recall_length: 3583.7201986754967
+epoch: 113, cumulative recall: 0.22876001149882633, arm_cnt: [311970. 141660. 234930.]
+filter recall at the end of epoch
+avg_recall_length: 3582.7201986754967
+epoch: 114, cumulative recall: 0.23014215519227219, arm_cnt: [314114. 143563. 236923.]
+filter recall at the end of epoch
+avg_recall_length: 3581.7201986754967
+epoch: 115, cumulative recall: 0.23141768725096187, arm_cnt: [316300. 145374. 238966.]
+filter recall at the end of epoch
+avg_recall_length: 3580.7201986754967
+epoch: 116, cumulative recall: 0.23267608529692294, arm_cnt: [318426. 146706. 241548.]
+filter recall at the end of epoch
+avg_recall_length: 3579.7201986754967
+epoch: 117, cumulative recall: 0.23394019468046018, arm_cnt: [320758. 148107. 243855.]
+filter recall at the end of epoch
+avg_recall_length: 3578.7201986754967
+epoch: 118, cumulative recall: 0.2352157267391499, arm_cnt: [323146. 149500. 246114.]
+filter recall at the end of epoch
+avg_recall_length: 3577.7201986754967
+epoch: 119, cumulative recall: 0.23652362304410485, arm_cnt: [324822. 151860. 248118.]
+filter recall at the end of epoch
+avg_recall_length: 3576.7201986754967
+epoch: 120, cumulative recall: 0.23762971875469996, arm_cnt: [326609. 153382. 250849.]
+filter recall at the end of epoch
+avg_recall_length: 3575.7201986754967
+epoch: 121, cumulative recall: 0.23868441242710906, arm_cnt: [328498. 154642. 253740.]
+filter recall at the end of epoch
+avg_recall_length: 3574.7201986754967
+epoch: 122, cumulative recall: 0.23989521599326824, arm_cnt: [330478. 156460. 255982.]
+filter recall at the end of epoch
+avg_recall_length: 3573.7201986754967
+epoch: 123, cumulative recall: 0.24125261055721714, arm_cnt: [333153. 157584. 258223.]
+filter recall at the end of epoch
+avg_recall_length: 3572.7201986754967
+epoch: 124, cumulative recall: 0.24235489870942808, arm_cnt: [335482. 158498. 261020.]
+filter recall at the end of epoch
+avg_recall_length: 3571.7201986754967
+epoch: 125, cumulative recall: 0.2437256197277215, arm_cnt: [338091. 159695. 263254.]
+filter recall at the end of epoch
+avg_recall_length: 3570.7201986754967
+epoch: 126, cumulative recall: 0.245252450639765, arm_cnt: [340637. 161167. 265276.]
+filter recall at the end of epoch
+avg_recall_length: 3569.7201986754967
+epoch: 127, cumulative recall: 0.24659842252856146, arm_cnt: [343241. 162114. 267765.]
+filter recall at the end of epoch
+avg_recall_length: 3568.7201986754967
+epoch: 128, cumulative recall: 0.24810431186949214, arm_cnt: [346448. 163051. 269661.]
+filter recall at the end of epoch
+avg_recall_length: 3567.7201986754967
+epoch: 129, cumulative recall: 0.24942743840798368, arm_cnt: [349064. 164129. 272007.]
+filter recall at the end of epoch
+avg_recall_length: 3566.7201986754967
+epoch: 130, cumulative recall: 0.25057732103999647, arm_cnt: [351370. 165203. 274667.]
+filter recall at the end of epoch
+avg_recall_length: 3565.7201986754967
+epoch: 131, cumulative recall: 0.25171197343847274, arm_cnt: [353658. 166007. 277615.]
+filter recall at the end of epoch
+avg_recall_length: 3564.7201986754967
+epoch: 132, cumulative recall: 0.2527552444357294, arm_cnt: [355865. 166665. 280790.]
+filter recall at the end of epoch
+avg_recall_length: 3563.7201986754967
+epoch: 133, cumulative recall: 0.2538727628214769, arm_cnt: [357982. 168067. 283311.]
+filter recall at the end of epoch
+avg_recall_length: 3562.7201986754967
+epoch: 134, cumulative recall: 0.25491032248115736, arm_cnt: [359940. 169086. 286374.]
+filter recall at the end of epoch
+avg_recall_length: 3561.7201986754967
+epoch: 135, cumulative recall: 0.25600118795821586, arm_cnt: [361685. 170896. 288859.]
+filter recall at the end of epoch
+avg_recall_length: 3560.7201986754967
+epoch: 136, cumulative recall: 0.2569340397623322, arm_cnt: [363480. 171864. 292136.]
+filter recall at the end of epoch
+avg_recall_length: 3559.7201986754967
+epoch: 137, cumulative recall: 0.25787641046240894, arm_cnt: [365298. 172866. 295356.]
+filter recall at the end of epoch
+avg_recall_length: 3558.7201986754967
+epoch: 138, cumulative recall: 0.25878832069541247, arm_cnt: [367062. 173653. 298845.]
+filter recall at the end of epoch
+avg_recall_length: 3557.7201986754967
+epoch: 139, cumulative recall: 0.2597668632001386, arm_cnt: [368791. 174262. 302547.]
+filter recall at the end of epoch
+avg_recall_length: 3556.7201986754967
+epoch: 140, cumulative recall: 0.26064831296606894, arm_cnt: [370632. 174867. 306141.]
+filter recall at the end of epoch
+avg_recall_length: 3555.7201986754967
+epoch: 141, cumulative recall: 0.26152024383603895, arm_cnt: [372338. 175221. 310121.]
+filter recall at the end of epoch
+avg_recall_length: 3554.7201986754967
+epoch: 142, cumulative recall: 0.26236171423893573, arm_cnt: [373934. 175517. 314269.]
+filter recall at the end of epoch
+avg_recall_length: 3553.7201986754967
+epoch: 143, cumulative recall: 0.2632622017967868, arm_cnt: [375774. 175796. 318190.]
+filter recall at the end of epoch
+avg_recall_length: 3552.7201986754967
+epoch: 144, cumulative recall: 0.2640065794608878, arm_cnt: [377082. 176018. 322700.]
+filter recall at the end of epoch
+avg_recall_length: 3551.7201986754967
+epoch: 145, cumulative recall: 0.26482139695509554, arm_cnt: [378492. 176204. 327144.]
+filter recall at the end of epoch
+avg_recall_length: 3550.7201986754967
+epoch: 146, cumulative recall: 0.2663748807758281, arm_cnt: [381573. 176348. 329959.]
+filter recall at the end of epoch
+avg_recall_length: 3549.7201986754967
+epoch: 147, cumulative recall: 0.2677037186518959, arm_cnt: [384315. 176578. 333027.]
+filter recall at the end of epoch
+avg_recall_length: 3548.7201986754967
+epoch: 148, cumulative recall: 0.26889358064694224, arm_cnt: [386731. 176857. 336372.]
+filter recall at the end of epoch
+avg_recall_length: 3547.7201986754967
+epoch: 149, cumulative recall: 0.2698568929181318, arm_cnt: [388666. 177007. 340327.]
+filter recall at the end of epoch
+avg_recall_length: 3546.7201986754967
+epoch: 150, cumulative recall: 0.27076880315113533, arm_cnt: [390618. 177173. 344249.]
+filter recall at the end of epoch
+avg_recall_length: 3545.7201986754967
+epoch: 151, cumulative recall: 0.27179684391485537, arm_cnt: [392616. 177582. 347882.]
+filter recall at the end of epoch
+avg_recall_length: 3544.7201986754967
+epoch: 152, cumulative recall: 0.27288961317110594, arm_cnt: [394670. 178042. 351408.]
+filter recall at the end of epoch
+avg_recall_length: 3543.7201986754967
+epoch: 153, cumulative recall: 0.273891001026137, arm_cnt: [396771. 178448. 354941.]
+filter recall at the end of epoch
+avg_recall_length: 3542.7201986754967
+epoch: 154, cumulative recall: 0.2747591243377228, arm_cnt: [398771. 178633. 358796.]/home/c0r00zy/data/c0r00zy/miniconda3/envs/py38/lib/python3.8/site-packages/numpy/linalg/linalg.py:2159: RuntimeWarning: overflow encountered in det
+  r = _umath_linalg.det(a, signature=signature)
+
+filter recall at the end of epoch
+avg_recall_length: 3541.7201986754967
+epoch: 155, cumulative recall: 0.27562534387011656, arm_cnt: [400527. 178750. 362963.]
+filter recall at the end of epoch
+avg_recall_length: 3540.7201986754967
+epoch: 156, cumulative recall: 0.27639447066371453, arm_cnt: [402080. 178874. 367326.]
+filter recall at the end of epoch
+avg_recall_length: 3539.7201986754967
+epoch: 157, cumulative recall: 0.2771179067567027, arm_cnt: [403511. 178980. 371829.]
+filter recall at the end of epoch
+avg_recall_length: 3538.7201986754967
+epoch: 158, cumulative recall: 0.2778146899410019, arm_cnt: [404777. 179330. 376253.]
+filter recall at the end of epoch
+avg_recall_length: 3537.7201986754967
+epoch: 159, cumulative recall: 0.27865235278551453, arm_cnt: [405946. 180666. 379788.]
+filter recall at the end of epoch
+avg_recall_length: 3536.7201986754967
+epoch: 160, cumulative recall: 0.279332001957085, arm_cnt: [407121. 181349. 383970.]
+filter recall at the end of epoch
+avg_recall_length: 3535.7201986754967
+epoch: 161, cumulative recall: 0.27997167176562193, arm_cnt: [408267. 181902. 388311.]
+filter recall at the end of epoch
+avg_recall_length: 3534.7201986754967
+epoch: 162, cumulative recall: 0.28055422819839665, arm_cnt: [409386. 182356. 392778.]
+filter recall at the end of epoch
+avg_recall_length: 3533.7201986754967
+epoch: 163, cumulative recall: 0.2811424959687476, arm_cnt: [410440. 182743. 397377.]
+filter recall at the end of epoch
+avg_recall_length: 3532.7201986754967
+epoch: 164, cumulative recall: 0.28171743728475396, arm_cnt: [411616. 183052. 401932.]
+filter recall at the end of epoch
+avg_recall_length: 3531.7201986754967
+epoch: 165, cumulative recall: 0.2827549969444344, arm_cnt: [414230. 183564. 404846.]
+filter recall at the end of epoch
+avg_recall_length: 3530.7201986754967
+epoch: 166, cumulative recall: 0.28401149121120334, arm_cnt: [417218. 183911. 407551.]
+filter recall at the end of epoch
+avg_recall_length: 3529.7201986754967
+epoch: 167, cumulative recall: 0.28506047354603625, arm_cnt: [419496. 184159. 411065.]
+filter recall at the end of epoch
+avg_recall_length: 3528.7201986754967
+epoch: 168, cumulative recall: 0.2860142669212654, arm_cnt: [421593. 184367. 414800.]
+filter recall at the end of epoch
+avg_recall_length: 3527.7201986754967
+epoch: 169, cumulative recall: 0.2869166582583086, arm_cnt: [423527. 184538. 418735.]
+filter recall at the end of epoch
+avg_recall_length: 3526.7201986754967
+epoch: 170, cumulative recall: 0.2881617298499251, arm_cnt: [426692. 184808. 421340.]
+filter recall at the end of epoch
+avg_recall_length: 3525.7201986754967
+epoch: 171, cumulative recall: 0.2893820523120446, arm_cnt: [429704. 185283. 423893.]
+filter recall at the end of epoch
+avg_recall_length: 3524.7201986754967
+epoch: 172, cumulative recall: 0.29050147447698427, arm_cnt: [432645. 185666. 426609.]
+filter recall at the end of epoch
+avg_recall_length: 3523.7201986754967
+epoch: 173, cumulative recall: 0.2916684911217257, arm_cnt: [435533. 186069. 429358.]
+filter recall at the end of epoch
+avg_recall_length: 3522.7201986754967
+epoch: 174, cumulative recall: 0.2927307999109031, arm_cnt: [437853. 186480. 432667.]
+filter recall at the end of epoch
+avg_recall_length: 3521.7201986754967
+epoch: 175, cumulative recall: 0.2938711636469556, arm_cnt: [440315. 186801. 435924.]
+filter recall at the end of epoch
+avg_recall_length: 3520.7201986754967
+epoch: 176, cumulative recall: 0.2951219465761483, arm_cnt: [442821. 187963. 438296.]
+filter recall at the end of epoch
+avg_recall_length: 3519.7201986754967
+epoch: 177, cumulative recall: 0.29632323124634713, arm_cnt: [445304. 188574. 441242.]
+filter recall at the end of epoch
+avg_recall_length: 3518.7201986754967
+epoch: 178, cumulative recall: 0.29759114818826854, arm_cnt: [448244. 189231. 443685.]
+filter recall at the end of epoch
+avg_recall_length: 3517.7201986754967
+epoch: 179, cumulative recall: 0.29875816483301, arm_cnt: [450929. 189886. 446385.]
+filter recall at the end of epoch
+avg_recall_length: 3516.7201986754967
+epoch: 180, cumulative recall: 0.29973289977935197, arm_cnt: [452993. 191135. 449112.]
+filter recall at the end of epoch
+avg_recall_length: 3515.7201986754967
+epoch: 181, cumulative recall: 0.30069430827134946, arm_cnt: [454936. 192508. 451836.]
+filter recall at the end of epoch
+avg_recall_length: 3514.7201986754967
+epoch: 182, cumulative recall: 0.3016652356593073, arm_cnt: [456848. 193363. 455109.]
+filter recall at the end of epoch
+avg_recall_length: 3513.7201986754967
+epoch: 183, cumulative recall: 0.30270279531898775, arm_cnt: [458826. 194277. 458257.]
+filter recall at the end of epoch
+avg_recall_length: 3512.7201986754967
+epoch: 184, cumulative recall: 0.3040106916239427, arm_cnt: [461623. 195124. 460653.]
+filter recall at the end of epoch
+avg_recall_length: 3511.7201986754967
+epoch: 185, cumulative recall: 0.30509013442584876, arm_cnt: [464027. 195754. 463659.]
+filter recall at the end of epoch
+avg_recall_length: 3510.7201986754967
+epoch: 186, cumulative recall: 0.3063028417712, arm_cnt: [466990. 196235. 466255.]
+filter recall at the end of epoch
+avg_recall_length: 3509.7201986754967
+epoch: 187, cumulative recall: 0.30732326741815175, arm_cnt: [469148. 196692. 469680.]
+filter recall at the end of epoch
+avg_recall_length: 3508.7201986754967
+epoch: 188, cumulative recall: 0.3086216448271464, arm_cnt: [472103. 197073. 472384.]
+filter recall at the end of epoch
+avg_recall_length: 3507.7201986754967
+epoch: 189, cumulative recall: 0.30998665450786356, arm_cnt: [475111. 197557. 474932.]
+filter recall at the end of epoch
+avg_recall_length: 3506.7201986754967
+epoch: 190, cumulative recall: 0.3113402415134283, arm_cnt: [477984. 197915. 477741.]
+filter recall at the end of epoch
+avg_recall_length: 3505.7201986754967
+epoch: 191, cumulative recall: 0.31241968431533435, arm_cnt: [480380. 198231. 481069.]
+filter recall at the end of epoch
+avg_recall_length: 3504.7201986754967
+epoch: 192, cumulative recall: 0.31374281085382594, arm_cnt: [483320. 198523. 483877.]
+filter recall at the end of epoch
+avg_recall_length: 3503.7201986754967
+epoch: 193, cumulative recall: 0.3149916900038266, arm_cnt: [486519. 198748. 486493.]
+filter recall at the end of epoch
+avg_recall_length: 3502.7201986754967
+epoch: 194, cumulative recall: 0.31622724269948277, arm_cnt: [489705. 198897. 489198.]
+filter recall at the end of epoch
+avg_recall_length: 3501.7201986754967
+epoch: 195, cumulative recall: 0.3172057852042089, arm_cnt: [492285. 199015. 492540.]
+filter recall at the end of epoch
+avg_recall_length: 3500.7201986754967
+epoch: 196, cumulative recall: 0.31837280184895034, arm_cnt: [495357. 199106. 495417.]
+filter recall at the end of epoch
+avg_recall_length: 3499.7201986754967
+epoch: 197, cumulative recall: 0.31933992167852404, arm_cnt: [497686. 199208. 499026.]
+filter recall at the end of epoch
+avg_recall_length: 3498.7201986754967
+epoch: 198, cumulative recall: 0.32034130953355505, arm_cnt: [499963. 199300. 502697.]
+filter recall at the end of epoch
+avg_recall_length: 3497.7201986754967
+epoch: 199, cumulative recall: 0.3214607316984947, arm_cnt: [502587. 199392. 506021.]
