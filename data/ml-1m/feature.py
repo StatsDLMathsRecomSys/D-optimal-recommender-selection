@@ -13,7 +13,7 @@ user_num, item_num = rating.uidx.max() + 1, rating.iidx.max() + 1
 word_set = set()
 genre_set = set()
 data = []
-with open(os.path.join(data_path, 'movies.dat')) as f:
+with open(os.path.join(data_path, 'movies.dat'), encoding = "ISO-8859-1") as f:
     for line in f:
         iidx_raw, title_raw, genre_raw = line.strip().split('::')
         iidx = int(iidx_raw)
