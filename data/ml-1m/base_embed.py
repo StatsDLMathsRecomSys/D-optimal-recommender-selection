@@ -9,7 +9,7 @@ from acgan.recommender import SVDRecommender
 from gensim.utils import simple_preprocess
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
-data_path='/home/c0r00zy/data/c0r00zy/project/bandit/data/ml-1m'
+data_path='.'
 names = ['uidx', 'iidx', 'rating', 'ts']
 dtype = {'uidx':int, 'iidx':int, 'rating':float, 'ts':float}
 data_df = pd.read_csv(os.path.join(data_path, 'ratings.dat'), 
