@@ -1,4 +1,8 @@
-# Design of the bandit
+# Towards the D-Optimal Online Experiment Design for Recommender Selection (KDD 2021)
+
+### Contact DaXu5180@gmail.com or Ruanchuanwei@gmail.com for questions.
+
+
 
 ## Running code
 
